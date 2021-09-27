@@ -1,0 +1,51 @@
+<div class="container">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" routerLink='/user/login' routerLinkActive='active' (click)="onLogout()">Salir</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" routerLink='/home' routerLinkActive='active'>Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"  routerLink='/noticias' routerLinkActive='active'>Noticias</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink='/user/registro' routerLinkActive='active'>Registrar usuario</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink='/usuariosInforme' routerLinkActive='active'>Informe usuarios</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container">
+  <h1>Noticias empresa</h1>
+  <table class="table">
+    <th>Nombre</th>
+    <th>Telefono</th>
+    <th>Direccion</th>
+    <th>Email</th>
+    <tbody>
+      <td>{{nombre}}</td>
+      <td>{{telefono}}</td>
+      <td>{{direccion}}</td>
+      <td>{{email}}</td>
+    </tbody>
+  </table>
+</div>
+<div class="container" *ngFor="let item of datos">
+  <div class="card" style="width: 100%;">
+    <div class="card-body">
+      <h5 class="card-title">Noticia</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Fecha de publicacion {{item.date}}</h6>
+      <p class="card-text">{{item.description}}</p>
+      <a href="#" class="card-link">Another link</a>
+    </div>
+  </div>
+</div>
+</div>

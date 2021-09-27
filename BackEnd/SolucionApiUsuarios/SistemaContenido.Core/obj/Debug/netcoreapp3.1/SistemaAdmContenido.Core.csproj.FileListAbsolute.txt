@@ -1,0 +1,8 @@
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\bin\Debug\netcoreapp3.1\SistemaAdmContenido.Core.deps.json
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\bin\Debug\netcoreapp3.1\SistemaAdmContenido.Core.dll
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\bin\Debug\netcoreapp3.1\SistemaAdmContenido.Core.pdb
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\obj\Debug\netcoreapp3.1\SistemaAdmContenido.Core.AssemblyInfoInputs.cache
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\obj\Debug\netcoreapp3.1\SistemaAdmContenido.Core.AssemblyInfo.cs
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\obj\Debug\netcoreapp3.1\SistemaAdmContenido.Core.csproj.CoreCompileInputs.cache
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\obj\Debug\netcoreapp3.1\SistemaAdmContenido.Core.dll
+C:\Users\david.cubides\Documents\CURSOS\loginNetCore\SistemaControlUsuarios\BackEnd\SolucionApiUsuarios\SistemaContenido.Core\obj\Debug\netcoreapp3.1\SistemaAdmContenido.Core.pdb
